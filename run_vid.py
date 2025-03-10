@@ -1,5 +1,6 @@
 
-# license retained from original demo code
+# license retained from original demo code, code modified using AI
+
 
 # Copyright (c) 2025, NVIDIA CORPORATION.  All rights reserved.
 #
