@@ -1,3 +1,19 @@
+
+# license retained from original demo code
+
+# Copyright (c) 2025, NVIDIA CORPORATION.  All rights reserved.
+#
+# NVIDIA CORPORATION and its licensors retain all intellectual property
+# and proprietary rights in and to this software, related documentation
+# and any modifications thereto.  Any use, reproduction, disclosure or
+# distribution of this software and related documentation without an express
+# license agreement from NVIDIA CORPORATION is strictly prohibited.
+
+
+# $ python scripts/run_vid.py  --ckpt_dir ./pretrained_models/model_best_bp2.pth  --intrinsic_file scripts/camera_calibration.json 
+
+
+
 import os
 import sys
 import argparse
